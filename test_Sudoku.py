@@ -9,6 +9,3 @@ class Test_test_Sudoku(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-
-
